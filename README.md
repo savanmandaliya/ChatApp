@@ -13,17 +13,15 @@ Express.js: A minimal and flexible Node.js web application framework that provid
 JavaScript: A versatile programming language used for both client-side and server-side scripting.
 Socket.IO: A JavaScript library for real-time web applications, enabling real-time, bidirectional, and event-based communication between web clients and servers.
 ## Installation
-**Clone the repository:**
+1.**Clone the repository:**
 ```bash
 git clone https://github.com/savanmandaliya/ChatApp.git
 cd ChatApp
-
-**Install the dependencies:**
+2.**Install the dependencies:**
 ```bash
 npm install
 
-**Start the server:**
-
+3.**Start the server:**
 npm start
-Open your browser and navigate to:
+4. **Open your browser and navigate to:**
 http://localhost:5000
