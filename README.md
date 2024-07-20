@@ -17,11 +17,13 @@ Socket.IO: A JavaScript library for real-time web applications, enabling real-ti
 ```bash
 git clone https://github.com/savanmandaliya/ChatApp.git
 cd ChatApp
-2.**Install the dependencies:**
+
+2.Install the dependencies:
 ```bash
 npm install
 
-3.**Start the server:**
+3.Start the server:
 npm start
-4. **Open your browser and navigate to:**
+
+4.Open your browser and navigate to:
 http://localhost:5000
