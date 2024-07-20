@@ -1,6 +1,6 @@
 Real-Time Chat Application
 Description
-The Real-Time Chat Application is a dynamic and interactive platform that enables users to join multiple chat rooms and communicate in real-time. It facilitates efficient communication and collaboration across various chat groups, enhancing community engagement and interaction.
+The Real-Time Chat Application is a dynamic and interactive platform that enables users to join multiple chatrooms and communicate in real-time. It facilitates efficient communication and collaboration across various chat groups, enhancing community engagement and interaction.
 
 Features
 Multiple Chat Rooms: Users can join various chat rooms to participate in different conversations simultaneously.
@@ -12,3 +12,14 @@ Node.js: A powerful JavaScript runtime built on Chrome's V8 engine, used for bui
 Express.js: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 JavaScript: A versatile programming language used for both client-side and server-side scripting.
 Socket.IO: A JavaScript library for real-time web applications, enabling real-time, bidirectional, and event-based communication between web clients and servers.
+Installation
+Clone the repository:
+git clone https://github.com/savanmandaliya/ChatApp.git
+cd ChatApp
+
+Install the dependencies:
+npm install
+Start the server:
+npm start
+Open your browser and navigate to:
+http://localhost:5000
